@@ -62,7 +62,7 @@ Brak znanych problemów w tej wersji.
 
 ## Wsparcie
 
-- **Email**: support@testrun-manager.com
+- **Email**: marek.dacz@hotmail.com
 - **Dokumentacja**: Zobacz plik INSTALLATION.md
 - **Autor**: ITM Marek Dacz
 
